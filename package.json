@@ -1,0 +1,30 @@
+{
+  "name": "react-assignments",
+  "version": "1.0.0",
+  "description": "React Assignments",
+  "homepage": "https://github.com/surichakkirala/react-assignments#readme",
+  "bugs": {
+    "url": "https://github.com/surichakkirala/react-assignments/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surichakkirala/react-assignments.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "author": "Surendra Chakkirala",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
